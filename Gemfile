@@ -5,6 +5,6 @@ gemspec
 gem "codeclimate-test-reporter"
 gem "combustion"
 gem "pg"
-gem "rspec-rails"
+gem "rspec-rails", ">= 8.0.0"
 
 gem "activerecord", "~> 6.0"
